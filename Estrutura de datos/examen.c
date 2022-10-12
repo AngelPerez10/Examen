@@ -1,3 +1,4 @@
+//Adolfo Angel Perez Salado
 #include<stdio.h>
 
 int problema2(int a){
@@ -13,7 +14,7 @@ int problema2(int a){
 int main(){
 	int dominio = 0;
 
-	printf("INGRESA HASTA QUE RANGO DESEAS LA SUCESIÓ");
+	printf("INGRESA HASTA QUE RANGO DESEAS LA SUCESIÓ: ");
 	scanf("%d", &dominio);
 
 	for(int i = 1; i <= dominio; i++){
